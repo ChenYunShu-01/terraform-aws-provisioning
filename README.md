@@ -1,0 +1,1 @@
+Use terraform to create vpc, subnets, internet gateway, security group, EC2 instance, volumes etc.
